@@ -1,0 +1,40 @@
+package myWhile;
+
+public class NoteSlide8 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int i ;//value i masukkan dalam for statement
+		int j;
+		int k;
+		int m;
+		
+		for (i = 1; i < 5; i++){//semua masukkan dalam for statement {
+			System.out.print(i + " ");
+		}
+	    
+		System.out.println();
+		
+		for (j = 10; j < 20; j++) {
+			System.out.print( j + " ");
+		}
+		
+		System.out.println();
+		
+		for (k = 20; k > 10; k--) {
+			System.out.print( k + " ");
+		}
+		
+		System.out.println();
+		
+		for (m = 30; m > 20; m--) {
+			System.out.print(m + " ");
+		}
+	   
+	    
+	
+	
+
+	}
+
+}
