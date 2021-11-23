@@ -1,0 +1,41 @@
+package myWhile;
+
+public class NoteSlide6 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int i = 1;
+		int j = 10;
+		int k = 20;
+		int m = 30;
+		
+		while ( i < 5) {
+			System.out.print(i + " ");
+			i++;//dari kecil ke besar
+		}
+		
+		System.out.println();
+		
+		while ( j < 20) {
+			System.out.print(j + " ");
+			j = j + 1;// sama dengan j++
+		}
+		
+		System.out.println();
+		
+		while ( k > 10) {
+			System.out.print(k + " ");
+			k--;//dari besar ke kecil
+			
+		}
+		
+		System.out.println();
+		
+		while(m > 20) {
+			System.out.print(m + " ");
+			m--;
+		}
+
+	}
+
+}
