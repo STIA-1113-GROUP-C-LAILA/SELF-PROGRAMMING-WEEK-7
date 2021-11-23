@@ -1,0 +1,18 @@
+package myWhile;
+
+public class NestedforLoops {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int number1;
+		int number2;
+		
+		for ( number2 = 0; number2 <= 2; number2++) {
+			for (number1 = 0; number1 <= 1; number1++) {
+				System.out.println(number2 + " " + number1);
+			}
+		}
+
+	}
+
+}
