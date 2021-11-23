@@ -1,0 +1,8 @@
+Please enter an Integer or -1 to stop : 85
+INSIDE LOOPING
+Please enter an Integer or -1 to stop : 1
+INSIDE LOOPING
+Please enter an Integer or -1 to stop : 75
+INSIDE LOOPING
+Please enter an Integer or -1 to stop : -1
+Sentinel value detected. Good bye.
